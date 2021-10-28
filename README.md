@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcof2004
 - 👀 I’m interested in technology, aviation, and music
-- 🌱 I’m currently learning html, css, batch, python.
+- 🌱 I’m currently learning html, css, batch, python, js and whatever language I encounter.
 - 💞️ I’m looking to have better habilities in web development and coding
 
 <!---
